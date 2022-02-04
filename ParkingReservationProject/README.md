@@ -57,3 +57,6 @@ The goal of this app is to help students find parking during peak hours when the
 • “Reserve” option. This will display the users who have logged in their estimated time of departure. (E.g., If I have class at 10:30 am and my last class ends at 2:15 pm, I log in “Parked” that I will be leaving at 2:15 pm. Anyone who may be looking for a spot ahead of time for their 2:30 pm class will be able to reserve the spot).
 • Notifications
 • Could possibly add ratings for consistency with departure time or delays
+
+## Project created at
+https://github.com/ArunaElangovan/csusm_parking
