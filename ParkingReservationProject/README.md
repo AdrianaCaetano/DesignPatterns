@@ -1,7 +1,7 @@
-##CS 542 Design Patterns and Object-Oriented Analysis Class Project
-Due on Monday, December 6, 11:59PM.
+## CS 542 Design Patterns and Object-Oriented Analysis Class Project
+Due on Monday, December 6 2021, 11:59PM.
 
-#Objectives
+# Objectives
 Practice object-oriented design and implementation with design patterns.
 
 #General Requirements
