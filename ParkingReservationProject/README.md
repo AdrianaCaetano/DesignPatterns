@@ -1,10 +1,10 @@
-## CS 542 Design Patterns and Object-Oriented Analysis Class Project
+# CS 542 Design Patterns and Object-Oriented Analysis Class Project
 Due on Monday, December 6 2021, 11:59PM.
 
-# Objectives
+## Objectives
 Practice object-oriented design and implementation with design patterns.
 
-#General Requirements
+## General Requirements
 You may either work individually, in two-person teams, or in three-person teams.
 You should submit both your code and a final project report.
 Choose one of the three applications listed at the end of the document as the topic of your class project. Your goal is to develop the application using object-oriented analysis, design, and implementation techniques that we have learned in this class. The final project is an executable software system implemented in C++ with the described functions.
@@ -13,18 +13,18 @@ a. The design should identify all classes and objects for the software project, 
 b. The design should demonstrate the use of 5 or more design patterns in different situations. Among the patterns, you must use at least one Structural pattern and one or more Behavioral patterns.
 c. Each design decision (e.g., the use of a design pattern) should be explained. You should also include with a brief discussion of how these patterns participate in an intelligent solution to the original problem. For example, you should come up with a legitimate business concept that will benefit from your selection of patterns.
 
-#Implementation
+## Implementation
 Implement the main functions of the system in C++. Separate the class declarations in the header files and the implementation details in the source files. Include appropriate comments in your code.
 
-#Project Presentation
+## Project Presentation
 Each team will give an in-class presentation about their project in Week 15. A demonstration of your project application is required during the presentation. The presentation also counts towards your project grade. The detailed schedule and logistics of presentation will be announced later.
 
-#Submission
+## Submission
 Submit two files to Cougar Course before the deadline:
 1. A zip file that includes the source code of your project. The file should be named with the last names of your team members. E.g., Last1Last2.zip.
 2. A PDF document for your project report named in the same way (e.g., Last1Last2.pdf).
 
-#Project List
+## Project List
 
 1. File Viewer. 
 Create a smart “tail” program for viewing live updates to log files and providing parsing tools. This tool would serve as a software development aid, allowing a developer to view real-time updates to log files produced by applications they are debugging. The tool would offer many useful features:
