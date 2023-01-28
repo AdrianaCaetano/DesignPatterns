@@ -16,7 +16,7 @@
 . The adapter makes the calls to the instance of the wrapped object
 
 
-![Object Adapter Pattern UML Diagram](StructuralPatterns-ObjectAdapter.drawio.png)
+![Object Adapter Pattern UML Diagram](StructuralPatterns-ObjectAdapter_drawio.png)
 
 
 ## Class Adapter Pattern
@@ -26,4 +26,4 @@
 . Make your adaptor as a child class of all the classes you want to reuse.
 
 
-![Object Adapter Pattern UML Diagram](StructuralPatterns-ClassAdapter.drawio.png)
+![Object Adapter Pattern UML Diagram](StructuralPatterns-ClassAdapter_drawio.png)
