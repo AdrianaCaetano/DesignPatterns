@@ -2,7 +2,7 @@
 Repository for assignments, examples, and project for the CS 542 Design Patterns class from CSUSM
 
 
-### Concept
+### Concept:
 Design Patterns are descriptions of communicating objects and classes that are customized to solve a general design problem in a particular context. 
 
 Design Pattern is a general repeatable solution to a commonly occurring problem in software design, a description for how to solve a problem that can be customizable. 
@@ -29,7 +29,10 @@ Design Pattern is a general repeatable solution to a commonly occurring problem 
   - problem (application scope, what type of problem it addresses), 
   - solution (how this DP works), 
   - consequences (costs, limitations, and benefits)
-  
+ 
+ 
+### Folder Structure: Concept + Code example + Diagram 
+
 
 ## Disclosure
 All information is based on my class notes and slides. I copied it here for my future reference. For more reliable sources, please check the book cited on reference.
