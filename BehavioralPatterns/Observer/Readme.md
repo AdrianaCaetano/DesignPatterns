@@ -14,7 +14,7 @@
 
 . Basic Classes: Subject (represents the core abstraction), Observer (represents the variable - user interface - abstraction). The Subject prompts the Observer object to do their thing. Each Observer can call back to the Subject as needed.  
 
-![Observer UML diagram](Observer/BehavioralPatterns-Observer.drawio.png)
+![Observer UML diagram](BehavioralPatterns-Observer.drawio.png)
 
 # Publish-Subscribe 
 
