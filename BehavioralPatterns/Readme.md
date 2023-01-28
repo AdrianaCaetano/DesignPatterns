@@ -26,7 +26,7 @@ Used to manage algorithms, relationships, and reponsibilities between objects.
 **Visitor**: Defines a new operation to a class without change
 
 
-## Observations
+## Important Notes
 
 Observer vs Publish-subscribe : Synchronous vs asynchronous. In the Observer/Observable pattern, the observers are aware of the observable. Whereas in Publisher/Subscriber, publishers and subscribers don't need to know each other. 
 
@@ -37,6 +37,3 @@ Iterator can transverse a composite.
 Visitor can apply an operation over a Composite.
 
 Visitor is a more powerful Command because the visitor may initiate whatever is appropriate for the kind of object it encounters.
-
-
-## Diagrams
