@@ -1,4 +1,4 @@
-Proxy
+# Proxy
 
 . A proxy object represents another object, a wrapper or agent object that is called by the client to access the real subject
 
