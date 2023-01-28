@@ -18,4 +18,4 @@
 
 . Multiple handlers could contribute to the handling of each request. The request can be passed down the entire length of the chain, with the last link being careful not to delegate to a "null next" 
 
-![Chain of Responsibility UML diagram](BehavioralPatterns-Chain of Responsibility.drawio.png)
+![Chain of Responsibility UML diagram](BehavioralPatterns-ChainofResponsibility.drawio.png)
